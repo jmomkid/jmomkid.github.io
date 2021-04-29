@@ -2216,7 +2216,7 @@ input, select, textarea {
 	}
 
 	.icon.featured {
-		color: #EA8A95;
+		color: #e70e32; /* #ea3350 */
 		display: block;
 		margin: 0 0 1.5em 0;
 		cursor: default;
