@@ -1603,7 +1603,7 @@ input, select, textarea {
 		transition: background-color .25s ease-in-out;
 		-webkit-appearance: none;
 		display: inline-block;
-		background-color: #EA8A95;
+		background-color: #ea3350;
 		color: #ffffff;
 		border: 0;
 		cursor: pointer;
@@ -2216,7 +2216,7 @@ input, select, textarea {
 	}
 
 	.icon.featured {
-		color: #e70e32; /* #ea3350 */
+		color: #ea3350; /* #ea3350 */
 		display: block;
 		margin: 0 0 1.5em 0;
 		cursor: default;
